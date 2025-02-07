@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ystodorov
-- 👀 I’m interested in Data Engineering and Data Science
-- 🌱 I’m currently learning the AI module in SoftUni
+- 👀 I’m interested in Data Engineering and AI
 
 <!---
 ystodorov/ystodorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
